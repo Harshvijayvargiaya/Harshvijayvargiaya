@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshvijayvargiaya
 - 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Deep Dream
+- 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on Image, Nlp projects
 - 📫 How to reach me harsh.vijay02@gmail.com
 
